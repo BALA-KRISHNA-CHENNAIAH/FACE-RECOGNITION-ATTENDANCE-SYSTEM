@@ -3,7 +3,9 @@ The attendance system uses Python, OpenCV, and Tkinter to automate tracking. Use
 
 Note:
 All the description about the below images can be found in the documentation file.
+
 Images from the project:
+
 ![image](https://github.com/user-attachments/assets/6767438d-01c9-4cc1-b834-27df03b5364c)
 ![image](https://github.com/user-attachments/assets/ffa5db45-587d-4252-9fc9-ed570d27e00c)
 ![image](https://github.com/user-attachments/assets/787e5406-0dfd-4005-a191-df80cdf91c18)
